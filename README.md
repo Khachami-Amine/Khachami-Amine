@@ -77,8 +77,57 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Real Estate Platform** | Full-featured web application for verified real estate listings with filtering and user portals. | `Laravel` `MySQL` `Tailwind` |
-| **Task Management Desktop App** | Standalone utility application designed for task organization and productivity tracking. | `Python` `SQLite` |
-| **Full-Stack Web API** | RESTful backend architecture with authentication, custom controllers, and migration scripts. | `Node.js` `Express` `MongoDB` |
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Real Estate Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+      <p>Full-featured web platform for verified real estate listings, search filtering, and dedicated user management portals.</p>
+      <p align="center">
+        <a href="https://github.com/Khachami-Amine"><b>View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ TaskForge Pro & Focus Tools</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>Standalone Windows desktop utility built for task organization, workflow focus tracking, and productivity management.</p>
+      <p align="center">
+        <a href="https://github.com/Khachami-Amine"><b>View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Full-Stack Web API & Auth</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p>Scalable RESTful API backend featuring JWT authentication, controller logic, database migrations, and clean route handling.</p>
+      <p align="center">
+        <a href="https://github.com/Khachami-Amine"><b>View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Modern Web App UI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <p>Responsive single-page frontend application featuring interactive components, state management, and API integrations.</p>
+      <p align="center">
+        <a href="https://github.com/Khachami-Amine"><b>View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
