@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>Hi, I'm <a href="https://github.com/YOUR-GITHUB-USERNAME">Amine Khachami</a> 👋</h1>
+  <h1>Hi, I'm <a href="https://github.com/Khachami-Amine">Amine Khachami</a> </h1>
   <h3>Full-Stack Web Developer & Digital Solutions Builder</h3>
 
   <p align="center">
-    <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <a href="https://github.com/Khachami-Amine">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;Laravel+%22+%22+ReactJS+%22+%22+Node.js;Database+Design+%22+%22+API+Architecture;Desktop+Applications+%22+%22+Automation" alt="Typing SVG" />
     </a>
   </p>
@@ -49,6 +49,7 @@
 
 <p align="center">
   <b>Databases, DevOps & Tools</b><br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -62,14 +63,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khachami-Amine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khachami-Amine&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khachami-Amine&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
